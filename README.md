@@ -1,5 +1,4 @@
 # Excel-parctice
-Excel related activities
 Hi, I'm Praveen 👋
 Aspiring Data Analyst | Travel Industry Background
 
